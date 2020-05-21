@@ -10,4 +10,4 @@ The task for this Capstone project is described as follows:
 >>Finally, you will be required to use the Folium library to great maps of geospatial data and to communicate your results and findings.    
   
   The task I came up with is some very basic comparison between east and west germany, each represented by two cities.  
-  A more detailed description can be read in the Introduction template, provided in this repository.
+  A more detailed description can be read in the Report template, provided in this repository.
